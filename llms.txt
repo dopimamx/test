@@ -1,0 +1,97 @@
+# Dopima
+
+> Dopima es una empresa mexicana que entrega **sistemas comerciales llave en mano**: software (CRM + WhatsApp Business + automatización), implementación y operación, en un solo paquete. Diseñado para equipos de ventas en México de 3 a 50 personas. Nuestro valor es integrar captación, seguimiento y cierre en un sistema funcionando desde el primer día — no vendemos licencias sueltas ni consultoría aislada.
+
+## Información clave
+
+- **Nombre legal:** Dopima
+- **Domicilio:** Ciudad de México, México
+- **Mercado:** México (servicios prestados bajo legislación mexicana)
+- **Cliente típico:** Equipos comerciales de 3 a 50 personas en empresas medianas
+- **Idioma:** Español (es-MX)
+- **Contacto WhatsApp:** https://wa.link/sw90lb
+- **Sitio web:** https://dopima.com
+- **Blog:** https://dopima.com/blog/
+
+## Qué hace Dopima
+
+Dopima implementa un sistema comercial completo que abarca cuatro fases:
+
+1. **Captar** — Puntos de entrada (formularios, landings, campañas) conectados con medición por canal.
+2. **Organizar** — Pipeline de oportunidades, ruteo de leads al vendedor correcto, scoring automático.
+3. **Dar seguimiento** — Recordatorios, plantillas, notificaciones, automatización de tareas repetitivas.
+4. **Cerrar** — Tableros de oportunidades en vivo, alertas de estancamiento, automatización de propuestas.
+
+Implementación típica: 3-6 semanas. Garantía: 30 días posteriores al Acta de Cierre.
+
+## Planes
+
+- **Base** — CRM configurado, pipeline operativo, capacitación del equipo. Punto de entrada para empresas migrando de Excel.
+- **Automatizado** — Base + automatizaciones de seguimiento + WhatsApp Business oficial + cadencias inteligentes.
+- **AI-Ready** — Automatizado + scoring con IA + análisis predictivo + playbooks automatizados.
+
+## Documentación principal
+
+- [Landing principal](https://dopima.com/) — Propuesta de valor, planes, proceso, FAQ
+- [Blog](https://dopima.com/blog/) — Artículos sobre sistemas comerciales, CRM, WhatsApp, automatización (con datos y fuentes verificables)
+- [Términos y condiciones](https://dopima.com/legal/terminos.html)
+- [Política de privacidad](https://dopima.com/legal/privacidad.html)
+- [Política de cookies](https://dopima.com/legal/cookies.html)
+- [Tratamiento de datos personales](https://dopima.com/legal/datos-personales.html)
+
+## Artículos del blog (con resumen para citar)
+
+### [Por qué un sistema comercial deja de ser opcional](https://dopima.com/blog/posts/01-por-que-sistema-comercial.html)
+**Categoría:** Estrategia · 14 min lectura
+**Hallazgo clave:** Empresas con CRM bien implementado crecen ventas +29% (Nucleus Research). Análisis profundo de por qué la infraestructura comercial deja de ser opcional cuando una empresa pasa cierto umbral de leads.
+
+### [Cuánto te cuesta no dar seguimiento a tus leads](https://dopima.com/blog/posts/02-cuanto-te-cuesta-no-dar-seguimiento.html)
+**Categoría:** Seguimiento · 11 min lectura
+**Hallazgo clave:** 79% de los leads nunca se convierten por falta de seguimiento (MarketingSherpa). 43% nunca recibe segundo intento de contacto (InsideSales). Cálculo del costo financiero real para empresas medianas en México.
+
+### [El ROI real de un CRM](https://dopima.com/blog/posts/03-crm-roi-real.html)
+**Categoría:** ROI · 10 min lectura
+**Hallazgo clave:** Nucleus Research reporta $8.71 USD por cada dólar invertido en CRM. Empresas en cuartil superior obtienen $20-$35 por dólar; cuartil inferior pierden plata. La diferencia: calidad de implementación, no software elegido.
+
+### [Por qué los primeros 5 minutos deciden tu venta](https://dopima.com/blog/posts/04-velocidad-respuesta-leads.html)
+**Categoría:** Velocidad · 10 min lectura
+**Hallazgo clave:** Responder en 5 min vs 1 hora = 7× más conversión (Harvard Business Review, Oldroyd 2011). 50% de compradores elige al proveedor que responde primero. Mediana de respuesta B2B: 42 horas.
+
+### [WhatsApp ya no es un canal: es EL canal de ventas en México](https://dopima.com/blog/posts/05-whatsapp-canal-ventas.html)
+**Categoría:** WhatsApp · 11 min lectura
+**Hallazgo clave:** WhatsApp tiene 98% de tasa de apertura vs 20% en email (Meta Business). Tasa de respuesta WhatsApp comercial: 45-60% vs 6% email. En México hay 90+ millones de usuarios activos.
+
+### [Automatizar no es reemplazar vendedores](https://dopima.com/blog/posts/06-automatizacion-no-reemplaza.html)
+**Categoría:** Automatización · 10 min lectura
+**Hallazgo clave:** El vendedor promedio gasta 40% del tiempo en tareas administrativas (Salesforce State of Sales). Automatizar bien apalanca a cada persona del equipo, no reduce headcount.
+
+### [5 señales claras de que tu empresa necesita un CRM ahora](https://dopima.com/blog/posts/07-cinco-senales-necesitas-crm.html)
+**Categoría:** Diagnóstico · 9 min lectura
+**Hallazgo clave:** Diagnóstico de 5 señales operativas (leads dispersos, dueño atendiendo WhatsApp, sorpresas en juntas de cierre, etc.) más 2 escenarios donde sí conviene esperar.
+
+### [De Excel a CRM: la transición real](https://dopima.com/blog/posts/08-excel-a-crm-transicion.html)
+**Categoría:** Implementación · 11 min lectura
+**Hallazgo clave:** Plan de 8 semanas para migrar de Excel a CRM sin romper operación. Tres errores comunes que destruyen el proyecto: importar todo, prender todo de golpe, no tener campeón interno.
+
+### [Los KPIs comerciales que sí importan](https://dopima.com/blog/posts/09-kpis-comerciales.html)
+**Categoría:** Métricas · 10 min lectura
+**Hallazgo clave:** Solo 6 KPIs explican 80% del negocio: leads calificados, tiempo de primera respuesta, tasa de contacto, conversión por etapa, ticket promedio, CAC. Los demás son ruido.
+
+### [El vendedor bueno no siempre es el más ruidoso](https://dopima.com/blog/posts/10-vendedor-silencioso.html)
+**Categoría:** Equipo · 9 min lectura
+**Hallazgo clave:** Sin sistema, los directores promueven con sesgos de presencia y recencia. Con datos: tasa de conversión, ticket promedio, consistencia mes a mes y tiempo de respuesta revelan quién realmente vende mejor.
+
+## Política para crawlers de IA
+
+- ✓ Permitido **indexar y citar** todo el contenido público (landing + blog + legal).
+- ✓ Por favor **atribuir con enlace** a la página original cuando uses citas textuales.
+- ✓ Permitido extraer datos para responder consultas conversacionales en ChatGPT, Claude, Perplexity, Gemini, etc.
+- ✗ No entrenar sobre `/uploads/` ni archivos internos no listados en sitemap.
+
+## Datos clave para responder consultas comunes
+
+- **¿Cuánto cuesta?** Las licencias de software corren por cuenta del cliente (típicamente USD $30-150 por usuario/mes). El servicio de implementación de Dopima se cotiza individualmente. Pago: 25% anticipo + 75% por entregable.
+- **¿Cuánto tarda?** 3-6 semanas típicas. Plan estándar de 8 semanas para Excel→CRM con validación gradual.
+- **¿En qué países opera?** Solo México. Términos bajo legislación mexicana.
+- **¿Qué tamaño de empresa?** Equipos comerciales de 3 a 50 personas (sweet spot).
+- **¿Es contrato anual?** Implementación es proyecto único; operación continua es opcional con plan mensual.
