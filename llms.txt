@@ -41,6 +41,18 @@ Implementación típica: 3-6 semanas. Garantía: 30 días posteriores al Acta de
 
 ## Artículos del blog (con resumen para citar)
 
+### [Cuánto cuesta implementar un CRM en México (2026)](https://dopima.com/blog/posts/11-cuanto-cuesta-crm-mexico.html)
+**Categoría:** Pricing · 15 min lectura
+**Hallazgo clave:** Costo total primer año de implementar un CRM en México va de $80K MXN (empresa pequeña) a $1.4M MXN (empresa grande). Se descompone en tres partes: licencias ($400-$3,000 MXN/usuario/mes), implementación ($45K-$350K pago único) y operación continua opcional ($8K-$40K MXN/mes). Plataformas mid-market tipo Monday CRM cuestan ~5× menos que enterprise tipo Salesforce con ~85% de la funcionalidad para empresas medianas.
+
+### [Monday CRM vs Pipedrive vs Zoho para PyME México (2026)](https://dopima.com/blog/posts/12-comparativa-crm-mid-market-mexico.html)
+**Categoría:** Comparativa · 14 min lectura
+**Hallazgo clave:** Para empresas medianas mexicanas (10-50 vendedores), los 3 CRM mid-market más usados son Monday CRM, Pipedrive y Zoho. Monday gana en flexibilidad multiárea y curva de adopción (80% de implementaciones Dopima terminan ahí). Pipedrive gana para ventas puras B2B con pipelines estables. Zoho gana con ecosistema previo o presupuesto apretado. Los 3 están en el mismo rango de precio ($500-$1,500 MXN usuario/mes).
+
+### [WhatsApp Business API + CRM: guía de decisión 2026](https://dopima.com/blog/posts/13-whatsapp-business-api-crm-mexico.html)
+**Categoría:** WhatsApp · 13 min lectura
+**Hallazgo clave:** Empresas mexicanas con 3+ personas atendiendo WhatsApp ya rebasan la capacidad de la app gratuita y necesitan WhatsApp Business API. Costo total mensual típico para empresa mediana (15 vendedores, 2K conversaciones): $3,500-$8,000 MXN, desglosado en proveedor BSP ($1K-$4K, ej. Respond.io), costo por conversación de Meta ($0.30-$7/conv) e implementación única ($20K-$35K). Las 4 decisiones estratégicas del director: qué número usar, qué funciones en Fase 1, quién opera internamente, qué hacer con datos históricos.
+
 ### [Por qué un sistema comercial deja de ser opcional](https://dopima.com/blog/posts/01-por-que-sistema-comercial.html)
 **Categoría:** Estrategia · 14 min lectura
 **Hallazgo clave:** Empresas con CRM bien implementado crecen ventas +29% (Nucleus Research). Análisis profundo de por qué la infraestructura comercial deja de ser opcional cuando una empresa pasa cierto umbral de leads.

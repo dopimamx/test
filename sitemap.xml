@@ -149,4 +149,34 @@
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
   </url>
+  <url>
+    <loc>https://dopima.com/blog/posts/11-cuanto-cuesta-crm-mexico.html</loc>
+    <lastmod>2026-04-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://dopima.com/assets/og/11-cuanto-cuesta-crm-mexico.png</image:loc>
+      <image:title>Cuánto cuesta implementar un CRM en México (2026)</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://dopima.com/blog/posts/12-comparativa-crm-mid-market-mexico.html</loc>
+    <lastmod>2026-04-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://dopima.com/assets/og/12-comparativa-crm-mid-market-mexico.png</image:loc>
+      <image:title>Monday CRM vs Pipedrive vs Zoho para PyME México 2026</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://dopima.com/blog/posts/13-whatsapp-business-api-crm-mexico.html</loc>
+    <lastmod>2026-04-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://dopima.com/assets/og/13-whatsapp-business-api-crm-mexico.png</image:loc>
+      <image:title>WhatsApp Business API + CRM Mexico 2026</image:title>
+    </image:image>
+  </url>
 </urlset>
