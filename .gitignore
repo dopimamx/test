@@ -1,0 +1,33 @@
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.cursorignore
+
+# Logs
+*.log
+npm-debug.log*
+
+# Local env
+.env
+.env.local
+
+# Dependencies (por si en el futuro alguien instala algo)
+node_modules/
+
+# Build artifacts (por si alguien usa generadores)
+dist/
+build/
+.cache/
+
+# Backups
+*.bak
+*.backup
+*.orig

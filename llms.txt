@@ -1,0 +1,121 @@
+# Dopima — Partner Oficial Clientify · México y LATAM
+
+> Dopima es Partner Oficial de Clientify para México y toda LATAM hispanohablante. Implementamos sistemas comerciales llave en mano sobre Clientify y gestionamos la licencia del cliente bajo una sola facturación: el cliente paga todo a Dopima (en pesos mexicanos o dólares), y nosotros nos encargamos del back con Clientify.
+
+## Posicionamiento
+
+Dopima no compite con agencias de marketing ni con CRMs tradicionales. Compite con el caos comercial del cliente: leads que caen al vacío, seis herramientas desconectadas y una operación ciega de números.
+
+La solución es Clientify — la única plataforma todo-en-uno diseñada en español, con WhatsApp Business API nativo, IA integrada y precios accesibles para el mercado hispanohablante. Reemplaza CRM, email marketing, landing pages, chatbot, formularios y bandeja unificada en una sola suscripción.
+
+Como Partner Oficial, Dopima entrega tres cosas en una sola relación comercial:
+1. Implementación llave en mano del sistema.
+2. Gestión de la licencia de Clientify (activación, renovación, soporte de primer nivel).
+3. Una sola factura mensual en moneda local.
+
+Tagline: *El sistema que hace que ganar se vuelva hábito.*
+
+## Prueba antes de comprar
+
+Antes de cualquier inversión, Dopima ofrece una prueba gratuita de 14 días sobre Clientify:
+- Sin tarjeta de crédito, sin compromiso.
+- Sesión guiada de 30 minutos con un consultor Dopima.
+- Carga de datos reales del cliente para probar el sistema en contexto real.
+- Si el cliente decide avanzar con la implementación, todo lo configurado durante la prueba se conserva.
+
+## Qué entrega Dopima
+
+Un sistema comercial completo sobre Clientify, en tres planes de implementación:
+
+### Plan Base — Arrancar con orden (2 a 3 semanas)
+Para empresas saliendo de Excel y WhatsApp personal.
+- Clientify configurado con pipeline personalizado
+- Formularios de captación + landing page
+- Integración Gmail/Outlook
+- WhatsApp básico conectado
+- Notificaciones automáticas al equipo
+- Capacitación + SOPs entregados
+- 15 días hábiles de garantía
+
+### Plan Enterprise — Escalar con automatización (3 a 4 semanas) · RECOMENDADO
+Para equipos comerciales que necesitan automatizar el seguimiento.
+- Todo lo del Plan Base
+- WhatsApp Business API completo (multi-agente)
+- Automatizaciones avanzadas y secuencias
+- Lead scoring + agendamiento automático
+- Dashboards de pipeline y actividad
+- Campañas Meta Ads + campaña piloto
+- Inbox multicanal compartido
+
+### Plan AI-Ready — Operar con IA (4 a 6 semanas)
+Para operaciones maduras que buscan automatización total con IA.
+- Todo lo del Plan Enterprise
+- AI Agent en WhatsApp (calificación 24/7)
+- Knowledge Base entrenada con tu negocio
+- Automatizaciones con IA integrada
+- Dashboards ejecutivos avanzados
+- Integraciones con sistemas externos (ERP)
+- Optimización continua mensual
+
+## Modelo económico
+
+**Una sola factura emitida por Dopima** que incluye:
+
+- **Setup único** (al inicio): pago único de implementación según plan elegido (Base, Enterprise o AI-Ready) y complejidad. A cotización.
+- **Mensualidad de licencia Clientify**: gestionada por Dopima como Partner Oficial. Clientify tiene un único plan "Todo en uno" con precio dinámico por usuarios y contactos de marketing:
+  - Desde $39 USD/mes (1 usuario, 1.000 contactos de marketing, IA incluida)
+  - Pago anual: $468 USD/año (40 % de descuento)
+  - Escala según usuarios, contactos y complementos requeridos
+  - IA incluida sin costo extra hasta el 31 de mayo de 2026
+
+El cliente puede facturar en pesos mexicanos o dólares según convenga. No hay relación contractual directa entre el cliente final y Clientify SL: todo el back lo gestiona Dopima.
+
+Upgrade entre planes de implementación: 20 % de descuento sobre el diferencial por ser cliente existente.
+
+## Proceso
+
+1. **Llamada de descubrimiento** (45 minutos por WhatsApp o videollamada).
+2. **Prueba gratis 14 días** (opcional pero recomendada): activación de cuenta de prueba + sesión guiada de 30 min con consultor Dopima.
+3. **Cotización + contrato firmado + activación de licencia** (Dopima activa Clientify a nombre del cliente bajo el programa de Partners).
+4. **Implementación** en sprints semanales con revisiones del cliente.
+5. **Acta de cierre** + SOPs documentados + 15 días hábiles de garantía.
+6. **Facturación mensual recurrente** por la licencia + soporte continuo.
+
+## Mercado
+
+México y toda LATAM hispanohablante: Colombia, Perú, Chile, Ecuador, Argentina, Centroamérica. Misma oferta, mismos plazos, mismos entregables. Especialización en empresas medianas (3 a 50 vendedores). Sectores donde tenemos experiencia: paneles solares, servicios profesionales, inmobiliario, B2B SaaS.
+
+## Stack
+
+- **Clientify** (plataforma core: CRM, WhatsApp API, marketing automation, landing pages, IA). Plataforma certificada ISO/IEC 27001. Licencia gestionada por Dopima como Partner Oficial.
+- **Meta Ads** (canal de captación primario en planes Enterprise y AI-Ready).
+
+## Contacto
+
+- WhatsApp: https://wa.link/sw90lb
+- Web: https://dopima.com
+
+## Empresa
+
+Dopima es Partner Oficial Clientify para LATAM.
+
+## Documentos relevantes
+
+- /index.html — página principal
+- /industrias/pymes.html — sistemas para PYMES (3 a 30 vendedores)
+- /industrias/inmobiliarias.html — sistemas para inmobiliarias y desarrolladoras
+- /industrias/salud-belleza.html — sistemas para clínicas, spas, dentistas
+- /industrias/educacion.html — sistemas para escuelas, universidades, academias
+- /industrias/solar-energia.html — sistemas para empresas solares y energía
+- /industrias/automotriz.html — sistemas para agencias automotrices y seminuevos
+- /industrias/servicios-profesionales.html — sistemas para despachos y consultoras
+- /industrias/industria-manufactura.html — sistemas para manufactura B2B
+- /industrias/it-saas.html — sistemas para empresas IT, telecom y SaaS
+- /industrias/agencias-marketing.html — sistemas para agencias de marketing
+- /industrias/agencias-viajes.html — sistemas para agencias de viajes
+- /industrias/opticas.html — sistemas para ópticas y cadenas
+- /blog/ — blog de contenidos sobre sistemas comerciales y CRM
+- /legal/terminos.html — términos y condiciones
+- /legal/privacidad.html — aviso de privacidad
+- /legal/cookies.html — política de cookies
+- /legal/datos-personales.html — tratamiento de datos personales

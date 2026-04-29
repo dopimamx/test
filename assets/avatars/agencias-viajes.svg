@@ -1,0 +1,37 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <clipPath id="circle-clip"><circle cx="100" cy="100" r="100"/></clipPath>
+  </defs>
+  <rect width="200" height="200" fill="#FEF0F4"/>
+  <circle cx="100" cy="100" r="98" fill="none" stroke="#F54E7A" stroke-width="2" stroke-dasharray="4 4" opacity="0.4"/>
+  <g clip-path="url(#circle-clip)">
+
+    <!-- Avión decorativo -->
+    <g transform="translate(155 40) rotate(15)" opacity="0.4">
+      <path d="M0,5 L25,8 L25,12 L8,15 L4,22 L1,22 L3,14 L-2,14 L-5,18 L-7,18 L-3,10 L-7,2 L-5,2 L-2,6 L3,6Z" fill="#F54E7A"/>
+    </g>
+    <!-- Avión con estela -->
+    <path d="M158,45 Q145,55 130,52" fill="none" stroke="#F54E7A" stroke-width="1" stroke-dasharray="2 2" opacity="0.5"/>
+    <!-- Cabeza -->
+    <ellipse cx="100" cy="78" rx="32" ry="36" fill="#C99371"/>
+    <!-- Pelo profesional largo -->
+    <path d="M65,75 Q65,40 100,38 Q135,40 135,75 L135,108 Q132,112 128,110 L128,80 Q132,52 100,48 Q68,52 72,80 L72,110 Q68,112 65,108Z" fill="#5B3F32"/>
+    <!-- Aretes perla -->
+    <circle cx="68" cy="92" r="2.5" fill="#FFFFFF" stroke="#A99098" stroke-width="0.5"/>
+    <circle cx="132" cy="92" r="2.5" fill="#FFFFFF" stroke="#A99098" stroke-width="0.5"/>
+    <!-- Ojos -->
+    <circle cx="89" cy="78" r="2.5" fill="#140B10"/>
+    <circle cx="111" cy="78" r="2.5" fill="#140B10"/>
+    <!-- Sonrisa amable -->
+    <path d="M92,92 Q100,99 108,92" fill="none" stroke="#140B10" stroke-width="2" stroke-linecap="round"/>
+    <!-- Cuello -->
+    <rect x="92" y="110" width="16" height="18" fill="#C99371"/>
+    <!-- Uniforme rosa/navy estilo aerolínea -->
+    <path d="M55,200 L55,160 Q55,140 75,135 L92,128 L100,150 L108,128 L125,135 Q145,140 145,160 L145,200Z" fill="#182247"/>
+    <!-- Pañuelo cuello rosa -->
+    <path d="M82,130 Q90,140 100,142 Q110,140 118,130 L118,138 Q110,148 100,150 Q90,148 82,138Z" fill="#F54E7A"/>
+    <!-- Pin -->
+    <circle cx="78" cy="160" r="3" fill="#FBA4BC"/>
+
+  </g>
+</svg>
